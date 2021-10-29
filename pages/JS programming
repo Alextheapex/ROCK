@@ -5,7 +5,9 @@
        <title> CSS education</title>
      </head>
     <body>
+    <div>
  
       <a href="../index.html"> Главная страница </a>
+      </div>
 </body>
   </html>
